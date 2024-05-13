@@ -1,4 +1,4 @@
-# Path filtering + config splitting on CircleCI
+# Path filtering + config splitting on CircleCI 
 
 This repository demonstrates an advanced use case of setup workflow feature on CircleCI. For instance, it implements both path filtering and config splitting.
 
