@@ -1,4 +1,4 @@
-# Config dedicated for module A
+# Config dedicated for module A 
 # All the resources must be prefixed with `module-a-` to avoid conflicts
 
 version: 2.1
